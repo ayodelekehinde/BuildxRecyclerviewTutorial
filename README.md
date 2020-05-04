@@ -1,6 +1,8 @@
 # BuildxRecyclerviewTutorial
 Learn how to implement RecyclerView on Buildx
 
+Don't forget to add recyclerview to your project
+
 To implement RecyclerView
 * Step1: add recyclerview to your xml view
 ```Xml
